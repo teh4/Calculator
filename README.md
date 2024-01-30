@@ -53,7 +53,7 @@
 
 <br>
 
- **0으로 나눌 경우**  Infinty라고 표기 되도록 개발했습니다.<br>
+ ⬇️ **0으로 나눌 경우**  Infinty 라고 표기 되도록 개발했습니다.<br>
 ![infinity](https://github.com/teh4/MiniWebCalculator/assets/131750928/30a48a54-a7f5-4898-b642-838c21ae0ed8)
   </div>
 </details>
